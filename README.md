@@ -10,7 +10,7 @@
 
 技术活我们来做，您只要介绍用户到我们这里就能拿到收益。
 
-分销商申请入口：[点击进入](https://ai.meibp.com/user/promotion.html)
+分销商申请入口：[点击进入](https://ai.meibp.com/user/promotion.html?_f=gh)
 
 用户通过二维码或者链接购买即可获得佣金。
 
