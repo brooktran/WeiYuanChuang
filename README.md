@@ -13,14 +13,13 @@
 分销商申请入口：[点击进入](https://ai.meibp.com/user/promotion.html?_f=gh)
 
 用户通过二维码或者链接购买即可获得佣金。
-
 ![logo.webp](https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/logo.webp?x=200)
 
 ## 联系方式
 
-微信： _chenxi_apple666_ 
-<img src="https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/kefu.jpeg" height="200px" />
+微信： _chenxi_apple666_
 
+<img src="https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/kefu.jpeg" height="200px" />
 
 QQ：3562372814
 
