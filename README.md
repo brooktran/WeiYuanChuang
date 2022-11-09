@@ -14,7 +14,7 @@
 
 用户通过二维码或者链接购买即可获得佣金。
 
-![logo.webp](https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/logo.webp)
+![logo.webp](https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/logo.webp?x=200)
 
 ## 联系方式
 
