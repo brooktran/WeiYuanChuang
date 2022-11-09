@@ -19,10 +19,12 @@
 ## 联系方式
 
 微信： _chenxi_apple666_
-![kefu](https://github.com/brooktran/WeiYuanChuang/blob/main/assets/imgs/kefu.jpeg)
-
-QQ：3562372814 
-
+![kefu](https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/kefu.jpeg#pic_center =200x)
+<center>
+<img src="https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/kefu.jpeg" height="200px" />
+扫码联系我们
+</center>
+QQ：3562372814
 
 ## 特色
 
@@ -51,7 +53,7 @@ QQ：3562372814
 - [X]  押韵API
 - [X]  **音视频转文字API**
 - [X]  **人声分离API**（快速消除人声，提取背景音乐，不限时长，不限大小）
-- [X]  **去水印API** 
+- [X]  **去水印API**
 - [X]  AI写诗API
 - [X]  AI对联API
 - [X]  配音API
@@ -65,5 +67,3 @@ QQ：3562372814
 # 注意
 
 * 本项目功能只用于个人学习研究，不得用于违法行为
-
-
