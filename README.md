@@ -18,12 +18,10 @@
 
 ## 联系方式
 
-微信： _chenxi_apple666_
-![kefu](https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/kefu.jpeg#pic_center =200x)
-<center>
+微信： _chenxi_apple666_ 
 <img src="https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/kefu.jpeg" height="200px" />
-扫码联系我们
-</center>
+
+
 QQ：3562372814
 
 ## 特色
