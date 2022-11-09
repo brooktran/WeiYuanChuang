@@ -14,12 +14,12 @@
 
 用户通过二维码或者链接购买即可获得佣金。
 
-![logo.webp](./assets/imgs/logo.webp)
+![logo.webp](https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/logo.webp)
 
 ## 联系方式
 
 微信： _chenxi_apple666_
-![kefu](./assets/imgs/kefu.jpeg)
+![kefu](https://github.com/brooktran/WeiYuanChuang/blob/main/assets/imgs/kefu.jpeg)
 
 QQ：3562372814 
 
