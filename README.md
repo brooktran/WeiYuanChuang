@@ -22,8 +22,9 @@
 
 <img src="https://github.com/brooktran/WeiYuanChuang/raw/main/assets/imgs/kefu.jpeg" height="200px" />
 
+<img width="916" alt="image" src="https://github.com/brooktran/WeiYuanChuang/assets/2121781/c1493f30-31fd-4934-a017-23459889c648">
 
-## 特色
+## 伪原创API接口
 
 1. 一键改写，高原创，更通顺，更智能；
 2. 针对影视娱乐、培训、社会、教育等行业针对性优化；
@@ -32,7 +33,11 @@
 5. 支持 **上传文件批量** 改写；
 6. 支持 **敏感词** 检测；
 7. 支持 **API和火车头** 等插件改写；
-8. 支持自定义 **保留词库、敏感词检测、简繁体转换、文本分析、段落摘要及关键词提取** 等等功能；
+
+## Ai写作API接口
+
+1. 支持Ai写作、Ai续写、Ai扩写、Ai缩写等1000多个Ai写作接口；
+8. 支持自定义 自定义prompt、功能定制 等等功能；
 9. 成立6周年，改写引擎持续升级中；
 10. 30+AI创作功能，助力文案写作；
 
@@ -57,8 +62,8 @@
 - [X]  AI绘画API
 - [X]  视频转GIF
 
-# 在线体验效果
-https://ai.meibp.com
+# 更多API信息
+https://ai.meibp.com/api
 
 
 # 注意
